@@ -101,13 +101,13 @@ const topScroll = () => {
   }
 }
 .btn-favo {
-  background-color: rgb(243, 169, 182);
+  background-color: #ff7dc4;
   color: rgb(255, 255, 255);
   &:hover {
-    background-color: rgb(255, 212, 220);
+    background-color: #ff9cd2;
   }
   &:active {
-    background-color: rgb(248, 158, 174);
+    background-color: #f669b6;
   }
 }
 .title {
